@@ -57,6 +57,7 @@ endif
 
 set t_Co=256
 let g:colors_name = "jellybeans"
+let g:loaded_jellybeans = 1
 
 "hi IncSearch -- no settings --
 "hi WildMenu -- no settings --

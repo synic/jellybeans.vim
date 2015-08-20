@@ -93,7 +93,7 @@ hi Folded guifg=#a0a8b0 guibg=#384048 guisp=#384048 gui=italic ctermfg=103 cterm
 hi PreCondit guifg=#8fbfdc guibg=NONE guisp=NONE gui=NONE ctermfg=110 ctermbg=NONE cterm=NONE
 hi Include guifg=#8fbfdc guibg=NONE guisp=NONE gui=NONE ctermfg=110 ctermbg=NONE cterm=NONE
 hi TabLineSel guifg=#000000 guibg=#f0f0f0 guisp=#f0f0f0 gui=italic ctermfg=NONE ctermbg=255 cterm=NONE
-hi StatusLineNC guifg=#a0a0a0 guibg=#3a3a3a guisp=#181818 gui=italic ctermfg=247 ctermbg=236 cterm=NONE
+hi StatusLineNC guifg=#999999 guibg=#3a3a3a guisp=#181818 gui=italic ctermfg=247 ctermbg=240 cterm=NONE
 hi NonText guifg=#808080 guibg=#151515 guisp=#151515 gui=NONE ctermfg=8 ctermbg=233 cterm=NONE
 hi DiffText guifg=NONE guibg=#000940 guisp=#000940 gui=NONE ctermfg=NONE ctermbg=17 cterm=NONE
 hi ErrorMsg guifg=NONE guibg=#902020 guisp=#902020 gui=NONE ctermfg=88 ctermbg=NONE cterm=NONE
@@ -106,7 +106,7 @@ hi StorageClass guifg=#c59f6f guibg=NONE guisp=NONE gui=NONE ctermfg=137 ctermbg
 hi Todo guifg=#808080 guibg=NONE guisp=NONE gui=bold ctermfg=8 ctermbg=NONE cterm=bold
 hi Special guifg=#799d6a guibg=NONE guisp=NONE gui=NONE ctermfg=65 ctermbg=NONE cterm=NONE
 hi LineNr guifg=#605958 guibg=#151515 guisp=#151515 gui=NONE ctermfg=59 ctermbg=233 cterm=NONE
-hi StatusLine guifg=#f0f0f0 guibg=#3a3a3a guisp=#101010 gui=italic ctermfg=255 ctermbg=236 cterm=NONE
+hi StatusLine guifg=#f0f0f0 guibg=#555555 guisp=#101010 gui=italic ctermfg=255 ctermbg=236 cterm=NONE
 hi Label guifg=#ffb964 guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
 hi PMenuSel guifg=#101010 guibg=#eeeeee guisp=#eeeeee gui=NONE ctermfg=233 ctermbg=255 cterm=NONE
 hi Search guifg=#f0a0c0 guibg=#302028 guisp=#302028 gui=underline ctermfg=218 ctermbg=236 cterm=underline
